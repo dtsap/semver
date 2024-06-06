@@ -2,6 +2,7 @@
 upload_dists = false
 token = "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"
 
+
 [tool.semantic_release]
 upload_to_pypi = "false"
 upload_to_release=true
