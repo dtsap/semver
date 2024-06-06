@@ -2,6 +2,13 @@
 
 
 
+## v0.2.7 (2024-06-06)
+
+### Fix
+
+* fix(toml): Minor ([`a6c3cfd`](https://github.com/dtsap/semver/commit/a6c3cfd8ec892c7bf8c3405a07c72e01d0983133))
+
+
 ## v0.2.6 (2024-06-06)
 
 ### Fix
