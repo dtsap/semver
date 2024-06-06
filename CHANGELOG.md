@@ -2,6 +2,13 @@
 
 
 
+## v0.2.1 (2024-06-06)
+
+### Fix
+
+* fix(toml): Minor change in toml ([`9091c97`](https://github.com/dtsap/semver/commit/9091c978b39753d638914381671b499b34d002fb))
+
+
 ## v0.2.0 (2024-06-06)
 
 ### Documentation
