@@ -2,6 +2,13 @@
 
 
 
+## v0.2.3 (2024-06-06)
+
+### Fix
+
+* fix(setup): Remove comment from setup ([`c5c5511`](https://github.com/dtsap/semver/commit/c5c551191fb705756406f637564c4d54502c59d6))
+
+
 ## v0.2.2 (2024-06-06)
 
 ### Fix
