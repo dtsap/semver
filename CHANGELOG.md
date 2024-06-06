@@ -2,6 +2,13 @@
 
 
 
+## v0.2.4 (2024-06-06)
+
+### Fix
+
+* fix(token): Fix token ([`c8a2dc9`](https://github.com/dtsap/semver/commit/c8a2dc9358f9b125aa22e3c322e47af523898974))
+
+
 ## v0.2.3 (2024-06-06)
 
 ### Fix
