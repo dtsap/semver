@@ -2,6 +2,13 @@
 
 
 
+## v0.2.6 (2024-06-06)
+
+### Fix
+
+* fix(toml): Minor ([`dad4022`](https://github.com/dtsap/semver/commit/dad4022cb9e406cd80ee9d8697755e28bea39326))
+
+
 ## v0.2.5 (2024-06-06)
 
 ### Fix
