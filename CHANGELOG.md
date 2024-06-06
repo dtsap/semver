@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+
+## v0.2.2 (2024-06-06)
+
+### Fix
+
+* fix(setup): Minor on setup ([`3e4a28b`](https://github.com/dtsap/semver/commit/3e4a28b3dcc2852cc1895c354ec141dd8ab8cf75))
+
+
 ## v0.2.1 (2024-06-06)
 
 ### Fix
