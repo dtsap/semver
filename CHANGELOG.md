@@ -2,6 +2,17 @@
 
 
 
+## v0.2.5 (2024-06-06)
+
+### Fix
+
+* fix(toml): Change toml ([`e35710f`](https://github.com/dtsap/semver/commit/e35710f73e0f1cf1e57f2772d0df03d6478daece))
+
+### Unknown
+
+* Remove file ([`64f74a4`](https://github.com/dtsap/semver/commit/64f74a4d6f37f72d43931e2b38cb008d0dc0cf10))
+
+
 ## v0.2.4 (2024-06-06)
 
 ### Fix
