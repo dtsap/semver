@@ -1,6 +1,6 @@
 [github]
 upload_dists = false
-token = "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"
+token = "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22"
 
 
 [tool.semantic_release]
