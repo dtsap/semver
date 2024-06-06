@@ -5,5 +5,4 @@ __version__ = "0.2.2"
 setup(
    name="greet",
    version=__version__,
-   # And so on...
 )
