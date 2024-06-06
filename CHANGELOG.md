@@ -2,6 +2,13 @@
 
 
 
+## v0.2.8 (2024-06-06)
+
+### Fix
+
+* fix(readme): Add how to use ([`c3e252f`](https://github.com/dtsap/semver/commit/c3e252f747210620020c6f393d3a7470f0afdb27))
+
+
 ## v0.2.7 (2024-06-06)
 
 ### Fix
