@@ -2,6 +2,15 @@
 
 
 
+## v2.0.0 (2024-06-07)
+
+### Breaking
+
+* perf(pencil): remove graphiteWidth option
+
+BREAKING CHANGE: The graphiteWidth option has been removed. ([`c9b9f88`](https://github.com/dtsap/semver/commit/c9b9f8881b60240f50696ffa1b3acb12177ed3a8))
+
+
 ## v1.0.0 (2024-06-07)
 
 ### Breaking
