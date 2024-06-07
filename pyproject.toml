@@ -16,7 +16,6 @@ major_on_zero = true
 allow_zero_version = true
 no_git_verify = false
 tag_format = "{version}"
-release_prefix = "v"
 version_variables = ["setup.py:__version__"]
 
 [semantic_release.hvcs.github]
