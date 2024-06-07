@@ -2,6 +2,17 @@
 
 
 
+## v0.2.0 (2024-06-07)
+
+### Feature
+
+* feat(greet): Change the return value ([`911d9b8`](https://github.com/dtsap/semver/commit/911d9b8528d89d4d5c83a07dee35ff9ce1377d5b))
+
+### Unknown
+
+* Change version ([`6ce98eb`](https://github.com/dtsap/semver/commit/6ce98ebe757a480b25b568bb5fdee480a3a1abbd))
+
+
 ## v0.1.0 (2024-06-07)
 
 ### Build
