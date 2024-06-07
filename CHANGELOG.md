@@ -2,6 +2,15 @@
 
 
 
+## v3.0.0 (2024-06-07)
+
+### Breaking
+
+* fix(docs): Readme
+
+BREAKING CHANGE: Fix readme ([`2a2468a`](https://github.com/dtsap/semver/commit/2a2468aea35fee213798a48eeb9e4b9fd968c95c))
+
+
 ## v2.0.0 (2024-06-07)
 
 ### Breaking
