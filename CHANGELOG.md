@@ -2,6 +2,13 @@
 
 
 
+## v0.2.2 (2024-06-07)
+
+### Fix
+
+* fix(toml): Change conf ([`563edb0`](https://github.com/dtsap/semver/commit/563edb05b8b7e482807bc3807434234531ae2823))
+
+
 ## v0.2.1 (2024-06-07)
 
 ### Fix
