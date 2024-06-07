@@ -2,6 +2,13 @@
 
 
 
+## v0.2.1 (2024-06-07)
+
+### Fix
+
+* fix(toml): Change the release prefix ([`ce1a580`](https://github.com/dtsap/semver/commit/ce1a5809f4292e4b92cdab58b2a292d3a3df9613))
+
+
 ## v0.2.0 (2024-06-07)
 
 ### Feature
