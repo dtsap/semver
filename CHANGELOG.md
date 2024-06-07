@@ -2,6 +2,16 @@
 
 
 
+## v1.0.0 (2024-06-07)
+
+### Breaking
+
+* perf(pencil): remove graphiteWidth option
+
+BREAKING CHANGE: The graphiteWidth option has been removed.
+The default graphite width of 10mm is always used for performance reasons. ([`03cf6b8`](https://github.com/dtsap/semver/commit/03cf6b84274c1a9c3d63877b2aee4ed383a8dbb8))
+
+
 ## v0.5.0 (2024-06-07)
 
 ### Feature
