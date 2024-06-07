@@ -2,6 +2,14 @@
 
 
 
+## v0.3.0 (2024-06-07)
+
+### Feature
+
+* feat(greet): Rename greetings module
+BREAKING CHANGE: Change module name ([`560cc4e`](https://github.com/dtsap/semver/commit/560cc4eb171538e270bf09bcde743f8f8cd3784b))
+
+
 ## v0.2.2 (2024-06-07)
 
 ### Fix
