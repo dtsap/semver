@@ -2,67 +2,11 @@
 
 
 
-## v0.2.8 (2024-06-06)
+## v0.1.0 (2024-06-07)
 
-### Fix
+### Build
 
-* fix(readme): Add how to use ([`c3e252f`](https://github.com/dtsap/semver/commit/c3e252f747210620020c6f393d3a7470f0afdb27))
-
-
-## v0.2.7 (2024-06-06)
-
-### Fix
-
-* fix(toml): Minor ([`a6c3cfd`](https://github.com/dtsap/semver/commit/a6c3cfd8ec892c7bf8c3405a07c72e01d0983133))
-
-
-## v0.2.6 (2024-06-06)
-
-### Fix
-
-* fix(toml): Minor ([`dad4022`](https://github.com/dtsap/semver/commit/dad4022cb9e406cd80ee9d8697755e28bea39326))
-
-
-## v0.2.5 (2024-06-06)
-
-### Fix
-
-* fix(toml): Change toml ([`e35710f`](https://github.com/dtsap/semver/commit/e35710f73e0f1cf1e57f2772d0df03d6478daece))
-
-### Unknown
-
-* Remove file ([`64f74a4`](https://github.com/dtsap/semver/commit/64f74a4d6f37f72d43931e2b38cb008d0dc0cf10))
-
-
-## v0.2.4 (2024-06-06)
-
-### Fix
-
-* fix(token): Fix token ([`c8a2dc9`](https://github.com/dtsap/semver/commit/c8a2dc9358f9b125aa22e3c322e47af523898974))
-
-
-## v0.2.3 (2024-06-06)
-
-### Fix
-
-* fix(setup): Remove comment from setup ([`c5c5511`](https://github.com/dtsap/semver/commit/c5c551191fb705756406f637564c4d54502c59d6))
-
-
-## v0.2.2 (2024-06-06)
-
-### Fix
-
-* fix(setup): Minor on setup ([`3e4a28b`](https://github.com/dtsap/semver/commit/3e4a28b3dcc2852cc1895c354ec141dd8ab8cf75))
-
-
-## v0.2.1 (2024-06-06)
-
-### Fix
-
-* fix(toml): Minor change in toml ([`9091c97`](https://github.com/dtsap/semver/commit/9091c978b39753d638914381671b499b34d002fb))
-
-
-## v0.2.0 (2024-06-06)
+* build(toml): Change the tag format ([`8e4209e`](https://github.com/dtsap/semver/commit/8e4209e9f2acedd18da390e1e0a496d45273d06f))
 
 ### Documentation
 
@@ -72,13 +16,28 @@
 
 * feat(toml): Add pyproject.toml ([`7c6f3f3`](https://github.com/dtsap/semver/commit/7c6f3f3a9d8161ee3280a0e5bad2024db6c7a748))
 
-
-## v0.1.0 (2024-06-06)
-
-### Feature
-
 * feat: add module ([`1f11986`](https://github.com/dtsap/semver/commit/1f11986c3361fd8416fa39b5ceee2d3f449b7a4a))
 
+### Fix
+
+* fix(readme): Add how to use ([`c3e252f`](https://github.com/dtsap/semver/commit/c3e252f747210620020c6f393d3a7470f0afdb27))
+
+* fix(toml): Minor ([`a6c3cfd`](https://github.com/dtsap/semver/commit/a6c3cfd8ec892c7bf8c3405a07c72e01d0983133))
+
+* fix(toml): Minor ([`dad4022`](https://github.com/dtsap/semver/commit/dad4022cb9e406cd80ee9d8697755e28bea39326))
+
+* fix(toml): Change toml ([`e35710f`](https://github.com/dtsap/semver/commit/e35710f73e0f1cf1e57f2772d0df03d6478daece))
+
+* fix(token): Fix token ([`c8a2dc9`](https://github.com/dtsap/semver/commit/c8a2dc9358f9b125aa22e3c322e47af523898974))
+
+* fix(setup): Remove comment from setup ([`c5c5511`](https://github.com/dtsap/semver/commit/c5c551191fb705756406f637564c4d54502c59d6))
+
+* fix(setup): Minor on setup ([`3e4a28b`](https://github.com/dtsap/semver/commit/3e4a28b3dcc2852cc1895c354ec141dd8ab8cf75))
+
+* fix(toml): Minor change in toml ([`9091c97`](https://github.com/dtsap/semver/commit/9091c978b39753d638914381671b499b34d002fb))
+
 ### Unknown
+
+* Remove file ([`64f74a4`](https://github.com/dtsap/semver/commit/64f74a4d6f37f72d43931e2b38cb008d0dc0cf10))
 
 * Add README.md ([`d6c16fa`](https://github.com/dtsap/semver/commit/d6c16fa4f5f895b779c8a8aed0f8995f5520dd3a))
