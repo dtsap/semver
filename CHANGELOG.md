@@ -2,6 +2,14 @@
 
 
 
+## v0.5.0 (2024-06-07)
+
+### Feature
+
+* feat: Change return value
+BREAKING CHANGE: Change return value of the greet function ([`537bf4b`](https://github.com/dtsap/semver/commit/537bf4b894847877cac8f1d4d090d7015f543062))
+
+
 ## v0.4.0 (2024-06-07)
 
 ### Feature
