@@ -12,6 +12,7 @@ Just practicing on python-semantic-versioning
 git commit -am 'fix(toml): Minor'
 ```
 
+
 Add breaking change:
 ```sh
 perf(pencil): remove graphiteWidth option
