@@ -2,6 +2,13 @@
 
 
 
+## v3.5.1 (2024-06-10)
+
+### Fix
+
+* fix: Change return value ([`b561338`](https://github.com/dtsap/semver/commit/b561338486e26517129c3ac68bdb269ecda736b3))
+
+
 ## v3.5.0 (2024-06-10)
 
 ### Feature
