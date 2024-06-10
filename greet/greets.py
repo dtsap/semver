@@ -1,7 +1,7 @@
 
 def main():
     print("Hello there!")
-    return 6
+    return 7
 
 
 if __name__=='__main__':
