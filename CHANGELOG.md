@@ -2,6 +2,17 @@
 
 
 
+## v3.1.0 (2024-06-10)
+
+### Feature
+
+* feat(greet): Change return value ([`d1c0847`](https://github.com/dtsap/semver/commit/d1c08478a1b2c59681cc03bd48ea7c06813420f5))
+
+### Fix
+
+* fix(toml): Minor ([`e4c6381`](https://github.com/dtsap/semver/commit/e4c6381854b1fc0b580dd26dc261a0eb0114b9d7))
+
+
 ## v3.0.0 (2024-06-07)
 
 ### Breaking
