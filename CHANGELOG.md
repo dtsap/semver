@@ -2,6 +2,13 @@
 
 
 
+## v3.2.0 (2024-06-10)
+
+### Feature
+
+* feat: Change return value ([`184a3e9`](https://github.com/dtsap/semver/commit/184a3e94b58fcf637c67de78a5987235c0007efb))
+
+
 ## v3.1.0 (2024-06-10)
 
 ### Feature
