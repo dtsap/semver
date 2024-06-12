@@ -2,7 +2,6 @@
 name = "gsc"
 version = "3.6.0"
 
-
 [tool.semantic_release]
 upload_to_pypi = "false"
 upload_to_release=true
