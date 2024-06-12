@@ -2,6 +2,13 @@
 
 
 
+## v3.7.0 (2024-06-12)
+
+### Feature
+
+* feat: Remove setup.py ([`1849a92`](https://github.com/dtsap/semver/commit/1849a92dbd7eb2a25f5a754b683f22c623004609))
+
+
 ## v3.6.0 (2024-06-12)
 
 ### Feature
