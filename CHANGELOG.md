@@ -2,6 +2,13 @@
 
 
 
+## v3.6.0 (2024-06-12)
+
+### Feature
+
+* feat: Remove setup.cfg ([`07bdfce`](https://github.com/dtsap/semver/commit/07bdfce2157f7070e672b9d0f5df4ba72fe95b34))
+
+
 ## v3.5.2 (2024-06-12)
 
 ### Fix
