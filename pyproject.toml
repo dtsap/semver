@@ -1,6 +1,6 @@
-[github]
-upload_dists = false
-token = "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"
+[project]
+name = "gsc"
+version = "3.5.1"
 
 
 [tool.semantic_release]
@@ -16,7 +16,9 @@ major_on_zero = true
 allow_zero_version = true
 no_git_verify = false
 tag_format = "{version}"
-version_variables = ["setup.py:__version__"]
+version_toml = [
+    "pyproject.toml:project.version",
+]
 
 [semantic_release.hvcs.github]
 upload_dists = false
