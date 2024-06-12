@@ -2,6 +2,13 @@
 
 
 
+## v3.5.2 (2024-06-12)
+
+### Fix
+
+* fix: Set the version to pyproject.toml ([`b112d9f`](https://github.com/dtsap/semver/commit/b112d9f9bd693ae494e12dc652f1517e0b25874b))
+
+
 ## v3.5.1 (2024-06-10)
 
 ### Fix

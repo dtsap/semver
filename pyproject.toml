@@ -1,6 +1,6 @@
 [project]
 name = "gsc"
-version = "3.5.1"
+version = "3.5.2"
 
 
 [tool.semantic_release]
