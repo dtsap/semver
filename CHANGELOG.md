@@ -2,6 +2,17 @@
 
 
 
+## v3.8.1 (2024-06-13)
+
+### Fix
+
+* fix: Readme change ([`4a02854`](https://github.com/dtsap/semver/commit/4a0285433bb3430cc12bab15833f0b3c6a93e3e0))
+
+### Unknown
+
+* Merge branch &#39;main&#39; of github.com:dtsap/semver into main ([`e8be9d1`](https://github.com/dtsap/semver/commit/e8be9d1b30ef0e7fdbe0534dbc79dfa1f1c19294))
+
+
 ## v3.8.0 (2024-06-13)
 
 ### Feature
