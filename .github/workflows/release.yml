@@ -33,6 +33,7 @@ jobs:
         git checkout dev
         git pull origin dev
         git merge main
+        git commit --amend '[skip cd] Sync dev'
         git push origin dev
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
