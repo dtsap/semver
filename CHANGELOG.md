@@ -2,6 +2,13 @@
 
 
 
+## v3.8.4 (2024-06-13)
+
+### Fix
+
+* fix: Change readme 4 ([`3c17d96`](https://github.com/dtsap/semver/commit/3c17d96e5fb205b7de00d61c17d522af9ae4d8fc))
+
+
 ## v3.8.3 (2024-06-13)
 
 ### Fix
