@@ -2,6 +2,21 @@
 
 
 
+## v3.10.5 (2024-06-13)
+
+### Fix
+
+* fix: typo ([`6af78a2`](https://github.com/dtsap/semver/commit/6af78a29c70b68f8f345fa36aa0bf4e76545302a))
+
+* fix: fix typo ([`45d912f`](https://github.com/dtsap/semver/commit/45d912fc936a768dce7717845a87e3406982cec8))
+
+### Unknown
+
+* Merge pull request #10 from dtsap/dev
+
+Dev ([`f693987`](https://github.com/dtsap/semver/commit/f6939878455f721a7525ca7a75dbff5f509ed5b0))
+
+
 ## v3.10.4 (2024-06-13)
 
 ### Fix
@@ -21,6 +36,12 @@
 
 * fix: Turn into rebase from merge ([`36e0d0c`](https://github.com/dtsap/semver/commit/36e0d0ce8879998d0a1df2d9f4b61f223c6fa9e2))
 
+* fix: Git config ([`54928b3`](https://github.com/dtsap/semver/commit/54928b3ed21a8528dd0599bd7cd35c12f21aaae8))
+
+### Unknown
+
+* Merge branch &#39;main&#39; of github.com:dtsap/semver into dev ([`ed1ece9`](https://github.com/dtsap/semver/commit/ed1ece95738b6b7ff8a555d7011a6bfc2be9d1df))
+
 
 ## v3.10.2 (2024-06-13)
 
@@ -28,12 +49,20 @@
 
 * fix: Fix back ([`1f8a7f0`](https://github.com/dtsap/semver/commit/1f8a7f0f2ad7a3247f6af18571cbd7e853e39c24))
 
+* fix: Fix back ([`6e9c0d4`](https://github.com/dtsap/semver/commit/6e9c0d450f5c73c7c23ade6a793a4c557b8c6ce9))
+
+### Unknown
+
+* Merge branch &#39;main&#39; of github.com:dtsap/semver into dev ([`d92190b`](https://github.com/dtsap/semver/commit/d92190b336fdd1cdbdcd6c6c3afbd746aa45a560))
+
 
 ## v3.10.1 (2024-06-13)
 
 ### Fix
 
 * fix: Turn into rebase from merge ([`9597569`](https://github.com/dtsap/semver/commit/95975699b81dbf6f1ecc9bb3be44fafaab2af576))
+
+* fix: Turn into rebase from merge ([`a89ff81`](https://github.com/dtsap/semver/commit/a89ff813030e434705532e215e76cf304afd7a1b))
 
 
 ## v3.10.0 (2024-06-13)
