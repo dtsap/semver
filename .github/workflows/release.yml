@@ -1,0 +1,27 @@
+name: Release
+
+on: 
+  push:
+    branches:
+      - main
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      
+      - name: Setu up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+        
+      - name: Install python-semantic-release
+        run: pip install python-semantic-release
+
+      - name: Run python-semantic-release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: semantic-release version
