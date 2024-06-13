@@ -2,6 +2,26 @@
 
 
 
+## v3.10.4 (2024-06-13)
+
+### Fix
+
+* fix: Fix back ([`e811bd2`](https://github.com/dtsap/semver/commit/e811bd23b6cedd4174ac87bafb9efedf5824b053))
+
+* fix: Turn into rebase from merge ([`887c223`](https://github.com/dtsap/semver/commit/887c2231bb9a7672db446e949b2e986a7a611dcb))
+
+
+## v3.10.3 (2024-06-13)
+
+### Fix
+
+* fix: Git config ([`a6e4f5e`](https://github.com/dtsap/semver/commit/a6e4f5e4bb4fe4394d15e85f8f694d914488b197))
+
+* fix: Fix back ([`2848a1f`](https://github.com/dtsap/semver/commit/2848a1ff181756ba217d061093febfeaba09c320))
+
+* fix: Turn into rebase from merge ([`36e0d0c`](https://github.com/dtsap/semver/commit/36e0d0ce8879998d0a1df2d9f4b61f223c6fa9e2))
+
+
 ## v3.10.2 (2024-06-13)
 
 ### Fix
