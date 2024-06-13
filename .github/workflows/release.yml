@@ -13,15 +13,12 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
       
-      - name: Setu up Python
+      - name: Setup up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
         
-      - name: Install python-semantic-release
-        run: pip install python-semantic-release
-
-      - name: Run python-semantic-release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: semantic-release version
+      - name: Python Semantic Release
+        uses: python-semantic-release/python-semantic-release@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
