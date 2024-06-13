@@ -22,3 +22,12 @@ jobs:
       uses: python-semantic-release/python-semantic-release@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Sync to dev
+      run: |
+        git checkout dev
+        git pull origin dev
+        git rebase master
+        git push origin dev
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
