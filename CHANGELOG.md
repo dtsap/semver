@@ -2,6 +2,15 @@
 
 
 
+## v3.10.4 (2024-06-13)
+
+### Fix
+
+* fix: Fix back ([`e811bd2`](https://github.com/dtsap/semver/commit/e811bd23b6cedd4174ac87bafb9efedf5824b053))
+
+* fix: Turn into rebase from merge ([`887c223`](https://github.com/dtsap/semver/commit/887c2231bb9a7672db446e949b2e986a7a611dcb))
+
+
 ## v3.10.3 (2024-06-13)
 
 ### Fix
