@@ -2,6 +2,13 @@
 
 
 
+## v3.9.0 (2024-06-13)
+
+### Feature
+
+* feat: Sync dev on GH action ([`d610535`](https://github.com/dtsap/semver/commit/d610535252b83a678033dc42a30a46328470e88d))
+
+
 ## v3.8.4 (2024-06-13)
 
 ### Fix
