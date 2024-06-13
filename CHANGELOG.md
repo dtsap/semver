@@ -2,6 +2,23 @@
 
 
 
+## v3.8.0 (2024-06-13)
+
+### Feature
+
+* feat: Add github actions ([`a2f3ceb`](https://github.com/dtsap/semver/commit/a2f3cebad5a6c61a57554b24291340bffa507bad))
+
+### Fix
+
+* fix: Change release gh action ([`a25a318`](https://github.com/dtsap/semver/commit/a25a31872a6a11f9c482a00152cc5fe35c421fe6))
+
+* fix: Release job ([`8f6a669`](https://github.com/dtsap/semver/commit/8f6a6698f758773df46691e8fd33ea36b67ebb55))
+
+* fix: Fix typo ([`5914f7a`](https://github.com/dtsap/semver/commit/5914f7acdc54406de1e214364e88b8cdaf2a4cc7))
+
+* fix: Fix gh action ([`ec3fc5c`](https://github.com/dtsap/semver/commit/ec3fc5ce1a66440418ee11f04b753c15a2757462))
+
+
 ## v3.7.0 (2024-06-12)
 
 ### Feature
@@ -14,9 +31,6 @@
 ### Feature
 
 * feat: Remove setup.cfg ([`07bdfce`](https://github.com/dtsap/semver/commit/07bdfce2157f7070e672b9d0f5df4ba72fe95b34))
-
-
-## v3.5.2 (2024-06-12)
 
 ### Fix
 
