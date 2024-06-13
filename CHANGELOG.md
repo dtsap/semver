@@ -2,6 +2,13 @@
 
 
 
+## v3.10.2 (2024-06-13)
+
+### Fix
+
+* fix: Fix back ([`1f8a7f0`](https://github.com/dtsap/semver/commit/1f8a7f0f2ad7a3247f6af18571cbd7e853e39c24))
+
+
 ## v3.10.1 (2024-06-13)
 
 ### Fix
