@@ -2,11 +2,30 @@
 
 
 
+## v3.10.0 (2024-06-13)
+
+### Fix
+
+* fix: Replace rebase with merge ([`70c2463`](https://github.com/dtsap/semver/commit/70c24639a2478d617354f9fe6a5fe17cd8145c2f))
+
+### Unknown
+
+* Merge pull request #5 from dtsap/dev
+
+Dev ([`2d34498`](https://github.com/dtsap/semver/commit/2d3449868370ee89b8cf6313e0e7c0dea2c18e4d))
+
+* Merge main ([`acaf770`](https://github.com/dtsap/semver/commit/acaf770be4c689875050b833bb54fed0e61d541a))
+
+
 ## v3.9.1 (2024-06-13)
 
 ### Fix
 
 * fix: Fix branch name ([`a07188c`](https://github.com/dtsap/semver/commit/a07188cf655caecc90b24cfc4dee38660d06fc40))
+
+* fix: Fix GH action ([`cb3cc55`](https://github.com/dtsap/semver/commit/cb3cc5564ff7f8a9b7933f67cf416774ca8ee22a))
+
+* fix: Fix branch name ([`1cfa815`](https://github.com/dtsap/semver/commit/1cfa8157857d0df8531bd94f298b5ea128b6c024))
 
 
 ## v3.9.0 (2024-06-13)
@@ -15,12 +34,20 @@
 
 * feat: Sync dev on GH action ([`d610535`](https://github.com/dtsap/semver/commit/d610535252b83a678033dc42a30a46328470e88d))
 
+* feat: Sync dev on GH action ([`8c3368e`](https://github.com/dtsap/semver/commit/8c3368e68017b12083d303614f81ae51e7e0aded))
+
+### Unknown
+
+* Merge branch &#39;dev&#39; of github.com:dtsap/semver into dev ([`30f24a6`](https://github.com/dtsap/semver/commit/30f24a6cb2b3aa22251f86c65779fe63962f7419))
+
 
 ## v3.8.4 (2024-06-13)
 
 ### Fix
 
 * fix: Change readme 4 ([`3c17d96`](https://github.com/dtsap/semver/commit/3c17d96e5fb205b7de00d61c17d522af9ae4d8fc))
+
+* fix: Change readme 4 ([`d4964b2`](https://github.com/dtsap/semver/commit/d4964b2482383e2e176fff4d992ae54861c4ab85))
 
 
 ## v3.8.3 (2024-06-13)
