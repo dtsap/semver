@@ -2,6 +2,19 @@
 
 
 
+## v3.8.3 (2024-06-13)
+
+### Fix
+
+* fix: Change readme once again ([`3318651`](https://github.com/dtsap/semver/commit/33186510dd8e0052eee46de183a52838da7c459d))
+
+### Unknown
+
+* Merge pull request #1 from dtsap/dev
+
+fix: Change readme once again ([`f13c168`](https://github.com/dtsap/semver/commit/f13c1683acbe15242314cb528f1e72320a112d82))
+
+
 ## v3.8.2 (2024-06-13)
 
 ### Fix
