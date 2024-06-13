@@ -2,6 +2,13 @@
 
 
 
+## v3.9.1 (2024-06-13)
+
+### Fix
+
+* fix: Fix branch name ([`a07188c`](https://github.com/dtsap/semver/commit/a07188cf655caecc90b24cfc4dee38660d06fc40))
+
+
 ## v3.9.0 (2024-06-13)
 
 ### Feature
