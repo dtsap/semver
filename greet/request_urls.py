@@ -16,7 +16,6 @@ def calculate_bbox(lat, lon, distance_km):
     max_lat = lat + lat_distance_deg
     min_lon = lon - lon_distance_deg
     max_lon = lon + lon_distance_deg
-
     return min_lat, min_lon, max_lat, max_lon
 
 
