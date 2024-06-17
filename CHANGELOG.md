@@ -1,5 +1,17 @@
 # CHANGELOG
 
+## v3.13.2 (2024-06-17)
+
+### Fix
+
+* fix: the jenkinsfile ([`1067332`](https://github.com/dtsap/semver/commit/1067332316b358289c49e32d63f2f802a5dbbb1b))
+
+### Unknown
+
+* Merge pull request #20 from dtsap/dev
+
+fix: the jenkinsfile ([`94ac375`](https://github.com/dtsap/semver/commit/94ac3753273df91daeac49e3b1b7bf039ffadb65))
+
 ## v3.13.1 (2024-06-17)
 
 ### Fix
