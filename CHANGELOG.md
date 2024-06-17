@@ -1,5 +1,25 @@
 # CHANGELOG
 
+## v3.13.0 (2024-06-17)
+
+### Documentation
+
+* docs: minor change ([`1117039`](https://github.com/dtsap/semver/commit/1117039de7627afcd18fad09d76a75eaf4293b44))
+
+### Feature
+
+* feat: Add Jenkinsfile ([`754025e`](https://github.com/dtsap/semver/commit/754025efe7a65f904c540e73c2f2ccdf4ef21c65))
+
+### Unknown
+
+* Merge pull request #18 from dtsap/dev
+
+feat: Add Jenkinsfile ([`7ff1c56`](https://github.com/dtsap/semver/commit/7ff1c56bb8dbbb54b53d9e277d15acfaf0b34278))
+
+* Merge pull request #17 from dtsap/dev
+
+docs: minor change ([`6e5a6d6`](https://github.com/dtsap/semver/commit/6e5a6d6f63b4a0ba1fcf6a9469d3510f4c09ff93))
+
 ## v3.12.0 (2024-06-17)
 
 ### Feature
