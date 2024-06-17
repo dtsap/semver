@@ -28,12 +28,12 @@ jobs:
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
   
-    - name: Sync to dev
-      run: |
-        git checkout dev
-        git pull origin dev
-        git merge main
-        git commit --amend '[skip cd] Sync dev'
-        git push origin dev
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    # - name: Sync to dev
+    #   run: |
+    #     git checkout dev
+    #     git pull origin dev
+    #     git merge main
+    #     git commit --amend '[skip cd] Sync dev'
+    #     git push origin dev
+    #   env:
+    #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
