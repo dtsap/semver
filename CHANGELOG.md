@@ -1,5 +1,19 @@
 # CHANGELOG
 
+## v3.11.2 (2024-06-17)
+
+### Fix
+
+* fix: 8 ([`7314968`](https://github.com/dtsap/semver/commit/73149681a67d61c0283a096a85d3c433429b36c8))
+
+* fix: 7 ([`ae9d368`](https://github.com/dtsap/semver/commit/ae9d3685e346e94343d507634255f0821f28cbcf))
+
+### Unknown
+
+* Merge pull request #15 from dtsap/dev
+
+Dev ([`42f4bbd`](https://github.com/dtsap/semver/commit/42f4bbdf3a69953611042fbda3dff08b907b2bc2))
+
 ## v3.11.1 (2024-06-17)
 
 ### Fix
