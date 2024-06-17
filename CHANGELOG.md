@@ -1,5 +1,19 @@
 # CHANGELOG
 
+## v3.11.1 (2024-06-17)
+
+### Fix
+
+* fix: Fix release.yml ([`a1a48ad`](https://github.com/dtsap/semver/commit/a1a48ad347f67b4755a37fdd0b6f3e37997d86f7))
+
+### Unknown
+
+* Merge pull request #14 from dtsap/dev
+
+Dev ([`903be4a`](https://github.com/dtsap/semver/commit/903be4aed1384435510c5bbc3862820157bbaa80))
+
+* Merge branch &#39;fix&#39; into dev ([`f7e1c43`](https://github.com/dtsap/semver/commit/f7e1c43ac2f86b0ce5985fbfe1d5eb2ae6499aca))
+
 ## v3.11.0 (2024-06-17)
 
 ### Feature
