@@ -10,6 +10,7 @@ node {
 
     stage 'Deploy'
         println 'Deploying ...'
+        sh 'git log --format="%ae" | head -1
         print 'Deployment succeeded!'
 
 
