@@ -1,5 +1,21 @@
 # CHANGELOG
 
+## v3.12.0 (2024-06-17)
+
+### Feature
+
+* feat: add point_to_bbox ([`a6a0461`](https://github.com/dtsap/semver/commit/a6a0461cfab19a84fa04e80e5b4d8c3db63336ae))
+
+### Fix
+
+* fix: 9 ([`afa6b9a`](https://github.com/dtsap/semver/commit/afa6b9a347e1ef12cb2b341aa2b36aefa0cb1382))
+
+### Unknown
+
+* Merge pull request #16 from dtsap/dev
+
+Dev ([`da745f3`](https://github.com/dtsap/semver/commit/da745f34e59ad60825c64c1b8a5f1adc0cef355a))
+
 ## v3.11.2 (2024-06-17)
 
 ### Fix
