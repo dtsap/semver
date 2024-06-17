@@ -21,12 +21,10 @@ node {
 
         env.COMMIT_AUTHOR = author
 
-        if (env.BRANCH_NAME == "main") {
+        if (env.BRANCH_NAME == "main" && env.COMMIT_AUTHOR == "semantic-release") {
             println "deploying main branch"
-            if (env.COMMIT_AUTHOR == "semantic-release") {
-                println "Author is semantic release"
-                println 'DEPLOYING .....'
-            }
+            println "Author is semantic release"
+            println 'DEPLOYING .....'
         }
         else if (env.BRANCH_NAME == "dev") {
             println "deploying dev branch"
