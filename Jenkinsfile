@@ -13,14 +13,12 @@ node {
         
         if (shouldDeploy()) {
             println 'Deploying ...'
-            println "deploying main branch"
-            println "Author is semantic release"
+            
+            println "deploying branch: ${env.BRANCH_NAME}"
+            println "Commit Author: ${env.COMMIT_AUTHOR}"
             println 'DEPLOYING .....'
-            print 'Deployment succeeded!'
-        }
-        else if (env.BRANCH_NAME == "dev") {
-            println "deploying dev branch"
-            print 'Deployment succeeded!'
+            println 'Deployment succeeded!'
+            
         }
         else {
             println "No deployment will be applied"
