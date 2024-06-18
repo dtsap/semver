@@ -1,5 +1,21 @@
 # CHANGELOG
 
+## v3.13.3 (2024-06-18)
+
+### Fix
+
+* fix: Jenkinsfile 3 ([`903895a`](https://github.com/dtsap/semver/commit/903895a3570ceb2f3ef7b8217a358ecc2f2dd3b5))
+
+* fix: Jenkinsfile 2 ([`08d3312`](https://github.com/dtsap/semver/commit/08d331248919559d5d45eb7abcf9f487639aba6d))
+
+* fix: Jenkinsfile ([`da05fb7`](https://github.com/dtsap/semver/commit/da05fb7823d3ee3603d44cac7097f988ec892314))
+
+### Unknown
+
+* Merge pull request #21 from dtsap/dev
+
+Jenkinsfile Dev ([`8518295`](https://github.com/dtsap/semver/commit/8518295fc752e572bc03f03209da3d8df5bde1b7))
+
 ## v3.13.2 (2024-06-17)
 
 ### Fix
