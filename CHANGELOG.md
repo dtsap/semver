@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## v3.13.8 (2024-06-19)
+
+### Performance
+
+* perf: Jenkinsfile 8 ([`94daeed`](https://github.com/dtsap/semver/commit/94daeeddd978a9f59a9d4a838d3c867c283e8885))
+
 ## v3.13.7 (2024-06-19)
 
 ### Fix
