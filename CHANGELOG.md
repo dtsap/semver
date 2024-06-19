@@ -1,5 +1,34 @@
 # CHANGELOG
 
+## v4.0.0 (2024-06-19)
+
+### Breaking
+
+* perf(pencil): remove graphiteWidth option
+
+BREAKING CHANGE: The graphiteWidth option has been removed.
+The default graphite width of 10mm is always used for performance reasons. ([`c68ccfc`](https://github.com/dtsap/semver/commit/c68ccfcdb37ea16f5ff4ce1374daf85c95a56f06))
+
+### Unknown
+
+* Add new feature
+
+BREAKING CHANGE: This is a new version ([`dc9d7d5`](https://github.com/dtsap/semver/commit/dc9d7d597139002a1f0b7839a4ff25623fa27a29))
+
+* Add new feature
+
+The new version of semver
+
+BREAKING CHANGE: This is a new version ([`a1930af`](https://github.com/dtsap/semver/commit/a1930afd1c5ff5acef00bbc5e057852e5011a44c))
+
+* Merge branch &#39;main&#39; of github.com:dtsap/semver into main ([`d6282ce`](https://github.com/dtsap/semver/commit/d6282cec71fe4b0fb9abcccad712de9f8014770f))
+
+* Add domain feature
+
+The new version of semver
+
+BREAKING CHANGE: ([`118ee47`](https://github.com/dtsap/semver/commit/118ee47546d9c6e2774a347e345e821a6a4ad1eb))
+
 ## v3.13.8 (2024-06-19)
 
 ### Performance

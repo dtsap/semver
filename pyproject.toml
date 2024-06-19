@@ -1,6 +1,6 @@
 [project]
 name = "gsc"
-version = "3.13.8"
+version = "4.0.0"
 
 [tool.semantic_release]
 upload_to_pypi = "false"
