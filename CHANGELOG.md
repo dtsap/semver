@@ -1,5 +1,15 @@
 # CHANGELOG
 
+## v5.0.1 (2024-06-19)
+
+### Fix
+
+* fix: Fix the release workflow ([`461f049`](https://github.com/dtsap/semver/commit/461f049ac462b3911b1c9d2d5f05b5d42a286e60))
+
+### Unknown
+
+* Merge branch &#39;main&#39; of github.com:dtsap/semver into main ([`9238b6e`](https://github.com/dtsap/semver/commit/9238b6e725a8fca41462d949b6f7452bd4cc574a))
+
 ## v5.0.0 (2024-06-19)
 
 ### Breaking
