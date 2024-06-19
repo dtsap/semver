@@ -4,26 +4,21 @@ node {
         println "Checkout branch: ${env.BRANCH_NAME}"
         checkout scm
 
+    if (!shouldDeploy()) {
+        println "Skipping deployment: Current changes are not supposed to be deployed."
+        return
+    }
+
     stage 'Unit Test'
         println 'Unit testing ...'
         println 'Run 10/10 tests passed.'
 
     stage 'Deploy'
-        
-        
-        if (shouldDeploy()) {
-            println 'Deploying ...'
-            
-            println "deploying branch: ${env.BRANCH_NAME}"
-            println "Commit Author: ${env.COMMIT_AUTHOR}"
-            println 'DEPLOYING .....'
-            println 'Deployment succeeded!'
-            
-        }
-        else {
-            println "No deployment will be applied"
-        }
-        
+        println 'Deploying ...'
+        println "deploying branch: ${env.BRANCH_NAME}"
+        println "Commit Author: ${env.COMMIT_AUTHOR}"
+        println 'DEPLOYING .....'
+        println 'Deployment succeeded!'
 }
 
 def shouldDeploy() {
