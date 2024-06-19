@@ -25,6 +25,7 @@ node {
 }
 
 
+
 def shouldDeploy() {
     env.COMMIT_AUTHOR = getLastCommitAuthor()
 
