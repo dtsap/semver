@@ -1,5 +1,17 @@
 # CHANGELOG
 
+## v3.13.6 (2024-06-19)
+
+### Fix
+
+* fix: Jenkinsfile 6 ([`ea07be8`](https://github.com/dtsap/semver/commit/ea07be88660f7ced25d2454a676ddeceff37ab9d))
+
+### Unknown
+
+* Merge pull request #24 from dtsap/dev
+
+fix: Jenkinsfile 6 ([`1ba0897`](https://github.com/dtsap/semver/commit/1ba08974204fbf5f3281ae01f2294e34250be94c))
+
 ## v3.13.5 (2024-06-19)
 
 ### Fix
