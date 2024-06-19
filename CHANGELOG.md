@@ -1,5 +1,15 @@
 # CHANGELOG
 
+## v5.0.0 (2024-06-19)
+
+### Breaking
+
+* feat!: Add a blank line ([`ef3427c`](https://github.com/dtsap/semver/commit/ef3427caf3027a8952d952f26b075dfd18dfba56))
+
+### Unknown
+
+* Merge branch &#39;main&#39; of github.com:dtsap/semver into main ([`d5c5cad`](https://github.com/dtsap/semver/commit/d5c5cadc2c4039c224d13cad8295a704c8aae74e))
+
 ## v4.0.0 (2024-06-19)
 
 ### Breaking
