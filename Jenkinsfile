@@ -26,7 +26,6 @@ node {
 
 
 def shouldDeploy() {
-    
     env.COMMIT_AUTHOR = getLastCommitAuthor()
 
     if (env.BRANCH_NAME == "main" && env.COMMIT_AUTHOR != "semantic-release") {
